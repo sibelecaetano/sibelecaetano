@@ -3,13 +3,13 @@
 <p align="center">
 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Full Stack e construção de aplicações práticas. Desenvolvo projetos utilizando JavaScript, React, HTML, CSS e Node.js, sempre priorizando código organizado, interfaces acessíveis e boas práticas.
 
-Meus trabalhos estão disponíveis no GitHub, onde aplico conceitos de componentização, responsividade, validação de dados e versionamento, simulando cenários reais de mercado. Busco oportunidades de estágio ou posição júnior em empresas multinacionais, em ambientes que valorizem aprendizado contínuo, colaboração e qualidade técnica.
+<p align="center">Meus trabalhos estão disponíveis no GitHub, onde aplico conceitos de componentização, responsividade, validação de dados e versionamento, simulando cenários reais de mercado. Busco oportunidades de estágio ou posição júnior em empresas multinacionais, em ambientes que valorizem aprendizado contínuo, colaboração e qualidade técnica.
 
-Trago também habilidades desenvolvidas em experiências profissionais anteriores, como responsabilidade, comunicação clara, organização e trabalho em equipe, que hoje aplico diretamente no desenvolvimento de software.
+<p align="center">Trago também habilidades desenvolvidas em experiências profissionais anteriores, como responsabilidade, comunicação clara, organização e trabalho em equipe, que hoje aplico diretamente no desenvolvimento de software.
 
 ---
 
-### 🚀 Tecnologias que uso:
+### Tecnologias que uso:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
@@ -22,7 +22,7 @@ Trago também habilidades desenvolvidas em experiências profissionais anteriore
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <p><img src="https://github-readme-stats.vercel.app/api?username=sibelecaetano&theme=omni&show_icons=true&hide_border=false&count_private=true" height="150"/></p>
@@ -32,7 +32,7 @@ Trago também habilidades desenvolvidas em experiências profissionais anteriore
 
 ---
 
-### 📫 Contato
+### Contato
 
 <div align="center">
   <a href="mailto:sibelecaetano7@gmail.com" target="_blank">
