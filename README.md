@@ -1,10 +1,11 @@
 <h1 align="center">Sibele Lino Caetano </h1>
 
 <p align="center">
-<p>Profissional em transição para a área de tecnologia, atualmente me especializando em <strong>Desenvolvimento Fullstack e Análise e Desenvolvimento de Sistemas</strong>.
-<p>Tenho como foco a criação de interfaces acessíveis, código limpo e soluções que geram valor real para pessoas e negócios. </p>
-<p>Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos em projetos desafiadores, aprender continuamente e contribuir ativamente com a equipe. 👩‍💻</p>
-</p>
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Full Stack e construção de aplicações práticas. Desenvolvo projetos utilizando JavaScript, React, HTML, CSS e Node.js, sempre priorizando código organizado, interfaces acessíveis e boas práticas.
+
+Meus trabalhos estão disponíveis no GitHub, onde aplico conceitos de componentização, responsividade, validação de dados e versionamento, simulando cenários reais de mercado. Busco oportunidades de estágio ou posição júnior em empresas multinacionais, em ambientes que valorizem aprendizado contínuo, colaboração e qualidade técnica.
+
+Trago também habilidades desenvolvidas em experiências profissionais anteriores, como responsabilidade, comunicação clara, organização e trabalho em equipe, que hoje aplico diretamente no desenvolvimento de software.
 
 ---
 
@@ -16,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+
 </div>
 
 ---
