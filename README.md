@@ -23,10 +23,6 @@ Desenvolvedora em formação com foco na construção de interfaces web responsi
 
 ## Projetos
 
-### Portfólio Pessoal
-
-Aplicação web desenvolvida para consolidar fundamentos de frontend, com foco em estrutura semântica, responsividade, manipulação de DOM e organização de código.
-
 ### EcoTroca
 
 Aplicação web construída em projeto prático colaborativo. Desenvolvimento de interfaces com React, componentização, organização de rotas e evolução para integração com backend em Node.js.
