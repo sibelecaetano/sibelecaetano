@@ -56,20 +56,20 @@ O objetivo do projeto é fortalecer fundamentos de desenvolvimento frontend e or
 
 ### 🏢 Website Institucional — Projeto Comercial
 
-Desenvolvimento de **site institucional real para empresa**, criado sob demanda e entregue como produto comercial.
+Aplicação web desenvolvida para uma instituição real, com site institucional público e área administrativa protegida por autenticação para gerenciamento de conteúdo.
 
-O projeto envolveu planejamento da estrutura do site, desenvolvimento das interfaces e adaptação para diferentes dispositivos.
+Projeto desenvolvido de forma independente, incluindo planejamento da estrutura, desenvolvimento do frontend, backend e integração com banco de dados.
 
-**Principais entregas:**
+Stack utilizada:
+React, JavaScript, Vite, CSS Modules, Node.js, Express, PostgreSQL e Prisma.
 
-- Desenvolvimento completo da interface do site  
-- Layout responsivo para desktop e mobile  
-- Estrutura de páginas institucionais (home, serviços e contato)  
-- Organização visual voltada para apresentação profissional da empresa  
+Principais funcionalidades:
+• Interface institucional responsiva
+• Sistema de login e autenticação
+• Painel administrativo para gerenciamento de conteúdo
+• Integração entre frontend, backend e banco de dados
 
-**Tecnologias:** HTML, CSS, JavaScript  
-
-Projeto desenvolvido e comercializado de forma independente.
+Projeto desenvolvido e entregue como solução web para cliente real, comercializado de forma independente.
 
 ---
 
